@@ -1,9 +1,0 @@
-{
-  "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "filebara",
-  "compatibility_date": "2026-07-05",
-  "assets": {
-    "directory": "./build",
-    "not_found_handling": "single-page-application",
-  },
-}

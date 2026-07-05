@@ -9,3 +9,4 @@ build/
 .playwright-mcp
 .opencode
 openspec
+.wrangler/
